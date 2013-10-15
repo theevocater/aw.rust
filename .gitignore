@@ -45,3 +45,5 @@ aw~
 *.tmp
 *.pyc
 *.elc
+build
+.rust
